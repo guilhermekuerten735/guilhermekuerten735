@@ -69,7 +69,3 @@ Além dos destaques, mantenho outros projetos experimentais voltados a automaç�
 </p>
 
 ---
-
-<p align="center">
-Acredito que tecnologia bem feita começa simples e evolui com consistência.
-</p>
