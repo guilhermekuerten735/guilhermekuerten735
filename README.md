@@ -65,6 +65,7 @@ Dashboard para controle e visualização de gastos, feito em Python com atençã
 ---
 
 <p align="center">
-Construindo com atenção aos detalhes e evoluindo dia após dia.
+Construindo com calma, evoluindo com consistência.<br/>
 Aberto a colaborações e novas oportunidades.
 </p>
+
