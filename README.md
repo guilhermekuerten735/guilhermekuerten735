@@ -9,7 +9,7 @@ Desenvolvedor com foco em soluções simples e código organizado.
 
 <p align="center">
 <a href="https://github.com/guilhermekuerten735">GitHub</a> • 
-<a href="https://www.linkedin.com/in/guilhermekuerten735">LinkedIn</a>
+<a href="https://www.linkedin.com/in/guilhermekuerten">LinkedIn</a>
 </p>
 
 ---
