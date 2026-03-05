@@ -44,7 +44,7 @@ Aplicação web de previsão do tempo, consumindo uma API pública para mostrar 
 ###  Expense-Control-Dashboard
 Dashboard para controle e visualização de gastos, feito em Python com atenção à clareza dos dados.  
   
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20repositório-black?style=flat&logo=github)](https://github.com/guilhermekuerten/Expense-Control-Dashboard)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20repositório-black?style=flat&logo=github)](https://github.com/guilhermekuerten735/Expense-Control-Dashboard)
 
 ---
 
@@ -60,7 +60,7 @@ Dashboard para controle e visualização de gastos, feito em Python com atençã
 ##  Contato
 
 - GitHub: https://github.com/guilhermekuerten735  
-- LinkedIn: https://www.linkedin.com/in/guilhermekuerten735
+- LinkedIn: https://www.linkedin.com/in/guilhermekuerten
 
 ---
 
